@@ -10,6 +10,7 @@ Beginner in Coding! I will learn and do like **'Day1'**
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
 <br/>
 
+
 ## 🙇🏻‍♂️ Actually, I was ...
 
 🎓 국어교육학, 한국어교육학, 한국어교원과정
@@ -26,10 +27,9 @@ Beginner in Coding! I will learn and do like **'Day1'**
     <img alt="" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat-square&logo=Adobe%20after%20effects&logoColor=393665">
     <img alt="" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6">
     <img alt="" src="">
-</div>
+</div>  
+<br/>
   
-<br/>
-<br/>
   
 ## 🔭 I can do ...
 
@@ -53,8 +53,6 @@ Beginner in Coding! I will learn and do like **'Day1'**
     <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  
     <img alt="" src=""> 
 </div>
-  
-<br/>
 <br/>
   
   
