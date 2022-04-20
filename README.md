@@ -1,12 +1,8 @@
 print('Hello HAERANGMAN👋')
 -------
-
-<br/>
-안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다!   
-<br/>
-Beginner in Coding! I will learn and do like 'Day1'      
-<br/>
-<br/>
+	
+안녕하세요 코린이 **해랑맨**입니다. 항상 초심의 마음으로 정진하겠습니다!   
+Beginner in Coding! I will learn and do like **'Day1'**     
 
 [![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
@@ -14,10 +10,7 @@ Beginner in Coding! I will learn and do like 'Day1'
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
 <br/>
 
-<br/>
-<br/>
-
-### 🙇🏻‍♂️ Actually, I was ...
+## 🙇🏻‍♂️ Actually, I was ...
 
 🎓 국어교육학, 한국어교육학, 한국어교원과정
 
@@ -38,7 +31,7 @@ Beginner in Coding! I will learn and do like 'Day1'
 <br/>
 <br/>
   
-### 🔭 I can do ...
+## 🔭 I can do ...
 
 #### Web
 <div align=left>
@@ -65,7 +58,7 @@ Beginner in Coding! I will learn and do like 'Day1'
 <br/>
   
   
-### 🌱 I’m looking to learn ...
+## 🌱 I’m looking to learn ...
 
 #### Python web
 <div align=left>
