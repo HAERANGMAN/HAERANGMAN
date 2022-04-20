@@ -4,7 +4,7 @@ print('Hello HAERANGMAN👋')
    안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다!   
 Beginner in Coding! I will learn and do like 'Day1'      
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
   [![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
@@ -13,10 +13,11 @@ Beginner in Coding! I will learn and do like 'Day1'
 
 
 ### ⚡ Actually, My job was ...
+
 <div align=left>
-https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-     https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
-     https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
+     <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
+     <img alt="" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white">  
+     <img alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white">       
 </div>
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white">
@@ -34,7 +35,7 @@ https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=mic
   <div align=left>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> 
     <img alt="" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
