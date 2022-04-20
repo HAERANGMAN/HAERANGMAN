@@ -2,9 +2,9 @@ print('Hello HAERANGMAN👋')
 -------
 
 <br/>
-안녕하세요 코린이 **해랑맨**입니다. 항상 초심의 마음으로 정진하겠습니다!   
+안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다!   
 <br/>
-Beginner in Coding! I will learn and do like **'Day1'**      
+Beginner in Coding! I will learn and do like 'Day1'      
 <br/>
 <br/>
 
@@ -14,7 +14,8 @@ Beginner in Coding! I will learn and do like **'Day1'**
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
 <br/>
 
-*****
+<br/>
+<br/>
 
 ### 🙇🏻‍♂️ Actually, I was ...
 
@@ -34,21 +35,23 @@ Beginner in Coding! I will learn and do like **'Day1'**
     <img alt="" src="">
 </div>
   
-*****
+<br/>
+<br/>
   
-  ### 🔭 I can do ...
-  #### Web
-  <div align=left>
+### 🔭 I can do ...
+
+#### Web
+<div align=left>
     <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">       
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
-  </div>
-  
+</div>
+
 #### ML, DL
 
-  <div align=left>
+<div align=left>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
     <img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white">
@@ -56,36 +59,41 @@ Beginner in Coding! I will learn and do like **'Day1'**
     <img alt="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  
     <img alt="" src=""> 
-  </div>
+</div>
   
-  *****
+<br/>
+<br/>
   
   
-  ### 🌱 I’m currently learning ...
-  <div align=left>
-       <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-       <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green"/>
-       <img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-       <img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
-       <img alt="" src="">
-  </div>
+### 🌱 I’m currently learning ...
+<div align=left>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+   <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green"/>
+   <img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+   <img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
+   <img alt="" src="">
+</div>
+
+<br/>
+<br/>
   
-  *****
   
-  ### 👯 I’m looking to learn ...
-  #### web server
-  <div align=left>
-     <img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-     <img alt="" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white">     
-  <img alt="" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white">
-  <img alt="" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
-  <img alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
-  <img alt="" src="">
-  </div>
+### 👯 I’m looking to learn ...
+
+#### web server
+<div align=left>
+    <img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white">     
+    <img alt="" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+    <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
+    <img alt="" src="">
+</div>
   
-*****
+<br/>
+<br/>
 
 ![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN&theme=react&show_icons=true,prs&cache_seconds=1800)
 ![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN&theme=react&show_icons=true)
