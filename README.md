@@ -11,8 +11,8 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 <br/>
 ## 🙇🏻‍♂️ Bio
 
-* I majored in Korean in Education, Korean as a Foreign Language
-* I used to work with these below tools
+- I majored in Korean in Education, Korean as a Foreign Language
+- I used to work with these below tools
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
     <img alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white">       
@@ -79,13 +79,10 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
     <img alt="" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white">
     <img alt="" src="">
 </div>
-  
-<br/>
 <br/>
 
+<div align=center>
 ![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN&theme=react&show_icons=true,prs&cache_seconds=1800)
-<br/>
 ![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN&theme=react&show_icons=true)
-<br/>
+</div>
 ![HAERANGMAN's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
-<br/>
