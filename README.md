@@ -12,17 +12,18 @@ Beginner in Coding! I will learn and do like 'Day1'
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
+<br/>
 
 *****
 
-#### 🙇🏻‍♂️ Actually, I was ...
+### 🙇🏻‍♂️ Actually, I was ...
 
 🎓 국어교육학, 한국어교육학, 한국어교원과정
 
 <div align=left>
-     <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
-     <img alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white">       
-     <img alt="" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white">       
+    <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
+    <img alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white">       
+    <img alt="" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white">       
 </div>
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white">
@@ -30,11 +31,12 @@ Beginner in Coding! I will learn and do like 'Day1'
     <img alt="" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat-square&logo=Adobe%20after%20effects&logoColor=393665">
     <img alt="" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6">
-    <img alt="" src="">  
-  </div>
+    <img alt="" src="">
+</div>
+
+<br/>
   
-  
-  *****
+*****
   
   ### 🔭 I can do ...
   #### Web
