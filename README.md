@@ -65,30 +65,30 @@ Beginner in Coding! I will learn and do like 'Day1'
 <br/>
   
   
-### 🌱 I’m currently learning ...
+### 🌱 I’m looking to learn ...
+
+#### Python web
 <div align=left>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-   <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green"/>
-   <img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
+       <img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+
    <img alt="" src="">
 </div>
 
-<br/>
-<br/>
-  
-  
-### 👯 I’m looking to learn ...
+#### JavaScript App
+<div align=left>
+    <img alt="" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+    <img alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">    
+    <img alt="" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
+</div>
 
 #### web server
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white">     
     <img alt="" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-    <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
     <img alt="" src="">
 </div>
   
@@ -96,5 +96,8 @@ Beginner in Coding! I will learn and do like 'Day1'
 <br/>
 
 ![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN&theme=react&show_icons=true,prs&cache_seconds=1800)
+<br/>
 ![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN&theme=react&show_icons=true)
+<br/>
 ![HAERANGMAN's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
+<br/>
