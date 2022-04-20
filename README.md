@@ -1,18 +1,23 @@
 print('Hello HAERANGMAN👋')
 -------
-     
-   안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다!   
-Beginner in Coding! I will learn and do like 'Day1'      
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
-  [![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
+<br/>
+안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다!   
+<br/>
+Beginner in Coding! I will learn and do like 'Day1'      
+<br/>
+<br/>
+
+[![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
 
 *****
 
+#### 🙇🏻‍♂️ Actually, I was ...
 
-### ⚡ Actually, My job was ...
+🎓 국어교육학, 한국어교육학, 한국어교원과정
 
 <div align=left>
      <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
@@ -79,9 +84,9 @@ Beginner in Coding! I will learn and do like 'Day1'
   <img alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
   <img alt="" src="">
   </div>
+  
 *****
 
-
-![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)
-![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN)
+![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN&theme=react&show_icons=true,prs&cache_seconds=1800)
+![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN&theme=react&show_icons=true)
 ![HAERANGMAN's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
