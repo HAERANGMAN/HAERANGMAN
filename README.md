@@ -2,9 +2,9 @@ print('Hello HAERANGMAN👋')
 -------
 
 <br/>
-안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다!   
+안녕하세요 코린이 **해랑맨**입니다. 항상 초심의 마음으로 정진하겠습니다!   
 <br/>
-Beginner in Coding! I will learn and do like 'Day1'      
+Beginner in Coding! I will learn and do like **'Day1'**      
 <br/>
 <br/>
 
@@ -33,8 +33,6 @@ Beginner in Coding! I will learn and do like 'Day1'
     <img alt="" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6">
     <img alt="" src="">
 </div>
-
-<br/>
   
 *****
   
