@@ -68,6 +68,6 @@ Beginner in Coding! I will learn and do like 'Day1'
 *****
 
 
-[![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN)]
-[![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN)]
-[![HAERANGMAN's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)]
+![HAERANGMAN's github stats](https://github-readme-stats.vercel.app/api?username=HAERANGMAN)
+![HAERANGMAN's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN)
+![HAERANGMAN's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
