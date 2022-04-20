@@ -1,8 +1,7 @@
 print('Hello HAERANGMAN👋')
 -------
-	
-안녕하세요 코린이 **해랑맨**입니다. 항상 초심의 마음으로 정진하겠습니다!   
-Beginner in Coding! I will learn and do like **'Day1'**     
+	   
+Hi, I'm beginner in Coding! I will learn and do like **'Day1'**     
 
 [![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
@@ -12,8 +11,8 @@ Beginner in Coding! I will learn and do like **'Day1'**
 <br/>
 ## 🙇🏻‍♂️ Bio
 
-* 국어교육학, 한국어교육학, 한국어교원과정을 공부했습니다
-* 아래와 같은 툴로 업무를 했습니다
+* I majored in Korean in Education, Korean as a Foreign Language
+* I used to work with these below tools
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
     <img alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white">       
@@ -30,7 +29,7 @@ Beginner in Coding! I will learn and do like **'Day1'**
 <br/>
   
   
-## 🔭 I can do ...
+## 💻 Working On It!
 
 #### Web
 <div align=left>
@@ -55,9 +54,9 @@ Beginner in Coding! I will learn and do like **'Day1'**
 <br/>
   
   
-## 🌱 I’m looking to learn ...
+## 🌱 Soon...
 
-#### Python web
+#### Python Web
 <div align=left>
 	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 	<img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
@@ -73,7 +72,7 @@ Beginner in Coding! I will learn and do like **'Day1'**
     <img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
 </div>
 
-#### web server
+#### Web Server
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white">     
