@@ -9,12 +9,11 @@ Beginner in Coding! I will learn and do like **'Day1'**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
 <br/>
+<br/>
+## 🙇🏻‍♂️ Bio
 
-
-## 🙇🏻‍♂️ Actually, I was ...
-
-🎓 국어교육학, 한국어교육학, 한국어교원과정
-
+* 국어교육학, 한국어교육학, 한국어교원과정을 공부했습니다
+* 아래와 같은 툴로 업무를 했습니다
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
     <img alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white">       
@@ -60,10 +59,9 @@ Beginner in Coding! I will learn and do like **'Day1'**
 
 #### Python web
 <div align=left>
-   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-       <img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-
-   <img alt="" src="">
+	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+	<img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+	<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">
 </div>
 
 #### JavaScript App
