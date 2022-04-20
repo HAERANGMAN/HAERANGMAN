@@ -1,14 +1,13 @@
 print('Hello HAERANGMAN👋')
 -------
-
-#### 안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다! Beginner in Coding! I will learn and do like 'Day1'
-
+   
+#### 안녕하세요 코린이 해랑맨입니다. 항상 초심의 마음으로 정진하겠습니다! 
+Beginner in Coding! I will learn and do like 'Day1'      
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-  [![Youtube Badge](https://img.shields.io/badge/-해랑맨%20유랑기록-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white")](https://www.instagram.com/haerangman)
-
+  [![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
 
 *****
 
