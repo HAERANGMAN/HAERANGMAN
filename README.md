@@ -20,6 +20,7 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 </div>
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white">
+	<img alt="" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-squaree&logo=Adobe%20Photoshop&logoColor=black">	
     <img alt="" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat-square&logo=Adobe%20after%20effects&logoColor=393665">
