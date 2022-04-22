@@ -3,7 +3,7 @@ print('Hello HAERANGMAN👋')
 	   
 Hi, I'm beginner in Coding! I will learn and do like **'Day1'**     
 
-[![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA){:target="_blank"}
+[![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA){: target="_blank"}
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman){:target="_blank"}
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:abcrang@gmail.com){:target="_blank"}
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://haerangman.github.io)](https://haerangman.github.io){:target="_blank"}
