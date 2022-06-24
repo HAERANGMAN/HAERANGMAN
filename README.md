@@ -11,7 +11,7 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 <br/>
 ## 🙇🏻‍♂️ Bio
 
-- I majored in Korean in Education, Korean as a Foreign Language
+- I majored in the both Korean in Education and Korean as a Foreign Language
 - I used to work with these below tools
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">  
