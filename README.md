@@ -46,6 +46,7 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 	<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">    
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
+	<img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
 </div>
 
 
@@ -74,9 +75,8 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
     <img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
 </div>
 
-#### Web Server
+#### DevOps
 <div align=left>
-    <img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white">     
     <img alt="" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white">
     <img alt="" src="">
