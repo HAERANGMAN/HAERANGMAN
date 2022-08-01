@@ -35,11 +35,19 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 #### Web
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">       
-    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
+    <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">           
+	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>	
+</div>
+
+#### Python Web
+<div align=left>
+	<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
+	<img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+	<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">    
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
 </div>
+
 
 #### ML, DL
 
@@ -56,13 +64,6 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
   
   
 ## 🐣 Soon...
-
-#### Python Web
-<div align=left>
-	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-	<img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-	<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">
-</div>
 
 #### JavaScript App
 <div align=left>
