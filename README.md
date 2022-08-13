@@ -70,7 +70,6 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 <div align=left>
     <img alt="" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
     <img alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">    
-    <img alt="" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
 </div>
