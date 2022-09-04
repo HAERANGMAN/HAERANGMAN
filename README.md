@@ -9,6 +9,8 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://haerangman.github.io)](https://haerangman.github.io)
 <br/>
 <br/>
+
+<!--
 ## 🙇🏻‍♂️ Bio
 
 - I majored in the both Korean in Education and Korean as a Foreign Language
@@ -89,6 +91,8 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 </div>
 
 <div align=center>
+
+-->
 	
 ##### Thanks for visiting!
 ![HAERANGMAN's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
