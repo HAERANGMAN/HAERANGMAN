@@ -1,7 +1,7 @@
-print('Hello HAERANGMAN👋')
+Let's do like **'Departure Floor🛫'**  
 -------
 	   
-Let's do like **'Departure Floor🛫'**     
+
 
 [![Youtube Badge](https://img.shields.io/badge/-해랑맨%20Travel%20Note-c14438?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)](https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/haerangman)
